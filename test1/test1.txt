@@ -1,7 +1,2 @@
 Test for git practice
-1
-2
-3                                                                                                                                                                                                                                                                                                                        3
-6
-7
-8
+456
